@@ -199,7 +199,7 @@ nav .menu{
 
 @media only screen and (max-width: 750px){
     #header{
-        background-image: url(./images/background_small.jpg);
+        background-image: url(./Images/background_small.jpg);
     }
     .header-text{
         margin-top: 35%;
