@@ -1,6 +1,7 @@
 # Personal Portfolio
 
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and achievements. This is a work in progress.
+
 <img width="720" alt="image" src="https://github.com/gso5699/Personal-Portfolio/assets/84787354/2d35cf3b-4413-433f-bd24-5177baa2e7f9">
 
 
